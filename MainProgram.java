@@ -175,7 +175,7 @@ public class MainProgram {
 		
 	
 	System.out.println("Number of page faults is " + _falts);
-	
+	scan.close();
 
 	} // End Main Method
 	
